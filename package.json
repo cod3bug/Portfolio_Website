@@ -1,5 +1,9 @@
 {
   "name": "portfolio",
+  "engines": {
+    "node": ">=16.7.0",
+    "npm": ">=7.22.0"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
